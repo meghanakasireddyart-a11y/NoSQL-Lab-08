@@ -17,4 +17,4 @@ Three-node replica set configuration, election protocols, primary stepping down,
 - Required packages: `pip install pymongo`
 
 ## Author
-- GitHub: [mannuruprajwalreddy-netizen](https://github.com/mannuruprajwalreddy-netizen)
+- GitHub: [meghanakasireddyart-a11y](https://github.com/meghanakasireddyart-a11y)
